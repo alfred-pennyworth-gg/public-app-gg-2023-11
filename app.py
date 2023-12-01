@@ -2,7 +2,7 @@
 
 import antigravity
 
-apikey=sk_live_d0eBd13s7qW9e2vzpF5UG4Qfc2dj6wAI
+SEED=15e0570d-3b41-44c6-aede-b1a4a6dfcb91
 
 def main():
     antigravity.fly()
